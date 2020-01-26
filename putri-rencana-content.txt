@@ -3,7 +3,10 @@ RENCANA KONTEN PUTRI
 -Javascript
  *ES6
  *Framework Javascript
+  ^vue
 -Struktur Data Dasar
 -PHP Framework
+  ^laravel
 -Interview
 -Vlogs
+-Phyton
