@@ -3,8 +3,11 @@ RENCANA KONTEN PUTRI
 -Javascript
  *ES6
  *Framework Javascript
--Struktur Data Dasar
+  ^angular
+  ^react
 -PHP Framework
+  ^laravel
+  ^ci
 -Interview
 -Vlogs
--apalagi yaa
+-Phyton
